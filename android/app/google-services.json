@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624723750955",
+    "project_id": "probash-care",
+    "storage_bucket": "probash-care.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624723750955:android:e7de1b85d849d19391ba6e",
+        "android_client_info": {
+          "package_name": "com.example.probas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRq35FUhAZmRVcnP2gFfeB_JUAbvEvoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "description": "Community support for Bangladeshi expats, helping with cultural events, legal aid, and job opportunities.",
+    "contact": "+966-555-123456",
+    "services": ["Job Placement", "Legal Assistance", "Cultural Events"],
+    "activities": ["Monthly Cultural Meetups", "Legal Workshops", "Job Fairs"]
+  },
+  {
+    "country": "UAE",
+    "city": "Dubai",
+    "description": "Provides social support, guidance, and assistance with legal matters for Bangladeshi workers in Dubai.",
+    "contact": "+971-555-654321",
+    "services": ["Visa Assistance", "Legal Guidance", "Community Integration"],
+    "activities": ["Community Socials", "Annual Sports Day", "Cultural Festival"]
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "description": "Offers assistance with accommodation, job placement, and emotional support for Bangladeshi migrants in Malaysia.",
+    "contact": "+60-123-456789",
+    "services": ["Accommodation Help", "Job Support", "Counseling"],
+    "activities": ["Support Groups", "Language Learning Classes", "Cultural Celebrations"]
+  },
+  {
+    "country": "Qatar",
+    "city": "Doha",
+    "description": "Supports Bangladeshi expats with cultural events, financial assistance, and community integration.",
+    "contact": "+974-333-222111",
+    "services": ["Financial Aid", "Cultural Events", "Job Placement"],
+    "activities": ["Community Dinners", "Workshops", "Volunteer Programs"]
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore City",
+    "description": "Provides a platform for Bangladeshi workers to connect, seek help, and share experiences in Singapore.",
+    "contact": "+65-999-888777",
+    "services": ["Community Networking", "Job Placement", "Legal Aid"],
+    "activities": ["Networking Events", "Support Groups", "Legal Aid Clinics"]
+  }
+]

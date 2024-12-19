@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Visa Support Agency Bangladesh",
+      "description": "Assists Bangladeshi students with visa applications for the USA, UK, and Australia. Expert guidance for visa interviews and documentation.",
+      "email": "support@visabd.com",
+      "phone": "+8801712345678",
+      "address": "House #23, Road #10, Dhanmondi, Dhaka-1205, Bangladesh",
+      "link": "https://www.visabd.com",
+    "country": "USA",
+    "degree": "PhD"
+  },
+  {
+      "name": "Global Education Consultants Bangladesh",
+      "description": "Offers specialized student visa consultation for Canada, Europe, and other popular study destinations. Expert help with visa processing and documentation.",
+      "email": "info@gecbangladesh.com",
+      "phone": "+8801556789012",
+      "address": "Flat #3B, Mirpur Tower, Mirpur Road, Dhaka-1216, Bangladesh",
+      "link": "https://www.gecbangladesh.com",
+    "country": "Germany",
+    "degree": "Under-Graduate"
+  },
+  {
+      "name": "Study Abroad Visa Experts Bangladesh",
+      "description": "Helps Bangladeshi students secure student visas for top destinations worldwide, including the US, UK, and Australia. Comprehensive support for applications.",
+      "email": "contact@studyvisaexpertsbd.com",
+      "phone": "+8801923456789",
+      "address": "Level 5, Banani Plaza, Banani, Dhaka-1213, Bangladesh",
+      "link": "https://www.studyvisaexpertsbd.com",
+    "country": "USA",
+    "degree": "Post-Graduate"
+  },
+  {
+      "name": "EduVisa Services Bangladesh",
+      "description": "Comprehensive consultancy providing visa services for students aiming to study in the UK, USA, Canada, and New Zealand. Specialized in student visa documentation and interview preparation.",
+      "email": "eduvisa@eduvisabd.com",
+      "phone": "+8801856789012",
+      "address": "12 Park View Avenue, Gulshan, Dhaka-1212, Bangladesh",
+      "link": "https://www.eduvisabd.com",
+    "country": "Canada",
+    "degree": "Under-Graduate"
+  },
+  {
+      "name": "International Visa Consultancy Bangladesh",
+      "description": "Assists Bangladeshi students with visa applications for New Zealand, Canada, and the UK. Provides thorough documentation and interview preparation.",
+      "email": "info@ivcbangladesh.com",
+      "phone": "+8801765432109",
+      "address": "101 Green Road, Farmgate, Dhaka-1207, Bangladesh",
+      "link": "https://www.ivcbangladesh.com",
+    "country": "USA",
+    "degree": "Under-Graduate"
+  },
+  {
+      "name": "Future Path Visa Assistance Bangladesh",
+      "description": "Personalized guidance for Bangladeshi students applying for study visas to the United States, Canada, and Europe. Tailored support for each student's needs.",
+      "email": "contact@futurevisa.com.bd",
+      "phone": "+8801987654321",
+      "address": "202 Dream Boulevard, Uttara, Dhaka-1230, Bangladesh",
+      "link": "https://www.futurevisa.com.bd",
+    "country": "USA",
+    "degree": "Post-Graduate"
+  }
+]

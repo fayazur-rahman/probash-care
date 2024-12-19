@@ -1,0 +1,69 @@
+[
+    {
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "contact": "+966 123 456 789",
+      "services": [
+        "Visa Application Assistance",
+        "Legal Documentation",
+        "Labor Law Consultation"
+      ],
+      "activities": [
+        "Visa Application Workshops",
+        "Legal Aid Services for Expats"
+      ]
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai",
+      "contact": "+971 123 456 789",
+      "services": [
+        "Work Visa Assistance",
+        "Visa Renewal"
+      ],
+      "activities": [
+        "Visa Processing Seminars",
+        "Free Legal Consultation Days"
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "contact": "+971 123 456 789",
+      "services": [
+        "Work Visa Assistance",
+        "Visa Renewal"
+      ],
+      "activities": [
+        "Visa Processing Seminars",
+        "Free Legal Consultation Days"
+      ]
+    },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "contact": "+971 123 456 789",
+    "services": [
+      "Work Visa Assistance",
+      "Visa Renewal"
+    ],
+    "activities": [
+      "Visa Processing Seminars",
+      "Free Legal Consultation Days"
+    ]
+  },
+    {
+      "country": "Qatar",
+      "city": "Doha",
+      "contact": "+974 123 456 789",
+      "services": [
+        "Employment Visa Services",
+        "Legal Dispute Consultation"
+      ],
+      "activities": [
+        "Visa Guidance Sessions",
+        "Legal Rights Seminars for Expats"
+      ]
+    }
+  ]
+  

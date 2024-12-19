@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Saudi Arabia",
+    "name": "Global Exchange",
+    "location": "Dhaka, Bangladesh",
+    "services": "Currency Exchange, International Transfers",
+    "contact": "+880 123 456 789",
+    "exchange_rate": "1 Saudi Riyal = 31.80 BDT"
+  },
+  {
+    "country": "UAE",
+    "name": "Metro Forex",
+    "location": "Dhaka, Bangladesh",
+    "services": "Forex Services, Remittances",
+    "contact": "+880 987 654 321",
+    "exchange_rate": "1 Dirham = 32.53 BDT"
+  },
+  {
+    "country": "Malaysia",
+    "name": "Global Exchange",
+    "location": "Dhaka, Bangladesh",
+    "services": "Currency Exchange, International Transfers",
+    "contact": "+880 123 456 789",
+    "exchange_rate": "1 Ringgit = 19.01 BDT"
+  },
+  {
+    "country": "Qatar",
+    "name": "Metro Forex",
+    "location": "Dhaka, Bangladesh",
+    "services": "Forex Services, Remittances",
+    "contact": "+880 987 654 321",
+    "exchange_rate": "1 Qatari Riyal = 32.67 BDT"
+  },
+  {
+    "country": "Singapore",
+    "name": "City Forex",
+    "location": "Dhaka, Bangladesh",
+    "services": "Money Exchange, Digital Payments",
+    "contact": "+880 234 567 890",
+    "exchange_rate": "1 Singapore Dollar = 88.51 BDT"
+  }
+]

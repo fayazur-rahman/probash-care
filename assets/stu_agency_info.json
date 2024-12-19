@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Global Education Agency",
+    "description": "Specialized in guiding students for higher studies abroad.",
+    "link": "https://www.globaleducationagency.com",
+    "address": "House: 12, Road: 4, Dhanmondi, Dhaka-1205, Bangladesh",
+    "phone": "+880123456789",
+    "email": "info@globaleduagency.com",
+    "country": "USA",
+    "degree": "Under-Graduate"
+  },
+  {
+    "name": "Study Abroad Consultants",
+    "description": "Provides consulting services for international education.",
+    "link": "https://www.studyabroad.com",
+    "address": "Suite: 203, Shyamoli Tower, Mirpur Road, Dhaka-1216, Bangladesh",
+    "phone": "+880987654321",
+    "email": "contact@studyabroadbd.com",
+    "country": "USA",
+    "degree": "Post-Graduate"
+  },
+  {
+    "name": "Scholarship Support Agency",
+    "description": "Helps students find scholarships worldwide.",
+    "link": "https://scholarship-positions.com",
+    "address": "Room: 501, Banani Plaza, Banani, Dhaka-1230, Bangladesh",
+    "phone": "+8801122334455",
+    "email": "support@scholarshipagency.com",
+    "country": "USA",
+    "degree": "Post-Graduate"
+  },
+  {
+    "name": "EduConnect Bangladesh",
+    "description": "Offers personalized support for university applications abroad.",
+    "link": "https://www.educonnectbd.com",
+    "address": "Road: 15, Block: D, Gulshan-1, Dhaka-1212, Bangladesh",
+    "phone": "+8801555223366",
+    "email": "info@educonnectbd.com",
+    "country": "Canada",
+    "degree": "Under-Graduate"
+  },
+  {
+    "name": "Dream Overseas Education",
+    "description": "A dedicated agency to help students achieve their dreams of studying abroad.",
+    "link": "https://www.dreamoverseas.com",
+    "address": "Flat: A2, Rangs Mall, Uttara, Dhaka-1230, Bangladesh",
+    "phone": "+8801443322110",
+    "email": "dream@overseasedu.com",
+    "country": "USA",
+    "degree": "Under-Graduate"
+  },
+  {
+    "name": "NextStep Education Consultancy",
+    "description": "Guiding students towards the right educational path globally.",
+    "link": "https://www.nextstepedu.com",
+    "address": "Office: 3B, Concord Tower, Mohakhali, Dhaka-1212, Bangladesh",
+    "phone": "+8801888776655",
+    "email": "consult@nextstepedu.com",
+    "country": "USA",
+    "degree": "PhD"
+  },
+  {
+    "name": "BrightFuture Consultancy",
+    "description": "Specialists in study visa processing and admissions for top universities.",
+    "link": "https://www.brightfutureconsultancy.com",
+    "address": "House: 10, Lane: 2, Bashundhara R/A, Dhaka-1229, Bangladesh",
+    "phone": "+8801777888999",
+    "email": "info@brightfuture.com",
+    "country": "Canada",
+    "degree": "PhD"
+  }
+]

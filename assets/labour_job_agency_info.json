@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Bright Future Agency",
+      "location": "Dhaka, Bangladesh",
+      "description": "Bright Future Agency specializes in finding job placements for IT professionals in reputed companies.",
+      "website": "https://brightfuture.com",
+      "country": "Saudi Arabia",
+      "type": "Cleaning Staff"
+    },
+    {
+      "name": "Career Prospects Pvt Ltd",
+      "location": "Chittagong, Bangladesh",
+      "description": "Providing career counseling and job placement opportunities for young graduates.",
+      "website": "https://careerprospects.com",
+      "country": "Saudi Arabia",
+      "type": "Construction Worker"
+    },
+    {
+      "name": "Global Opportunities Agency",
+      "location": "Sylhet, Bangladesh",
+      "description": "Focuses on overseas job placements for skilled and semi-skilled workers.",
+      "website": "https://globalopportunities.com",
+      "country": "Singapore",
+      "type": "Hospitality Worker"
+    },
+    {
+      "name": "Skill Hub Bangladesh",
+      "location": "Khulna, Bangladesh",
+      "description": "Skill Hub connects employers with highly trained professionals in the manufacturing sector.",
+      "website": "https://skillhubbd.com",
+      "country": "UAE",
+      "type": "Cleaning Staff"
+    },
+    {
+      "name": "Pioneer Staffing Agency",
+      "location": "Rajshahi, Bangladesh",
+      "description": "A pioneer in IT and management job recruitment across the country.",
+      "website": "https://pioneerstaffing.com",
+      "country": "UAE",
+      "type": "Construction Worker"
+    }
+  ]
+  

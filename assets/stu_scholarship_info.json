@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Rhodes Scholarship",
+      "description": "The Rhodes Scholarship is a prestigious international scholarship program enabling outstanding students from around the world to study at the University of Oxford.",
+      "link": "https://www.rhodeshouse.ox.ac.uk/scholarships/",
+      "address": "Rhodes House, South Parks Road, Oxford OX1 3RG, United Kingdom",
+      "phone": "+44 1865 278 900",
+      "email": "info@rhodeshouse.ox.ac.uk",
+      "country": "USA",
+      "degree": "Post-Graduate"
+    },
+    {
+      "name": "Fulbright Program",
+      "description": "The Fulbright Program is an international educational exchange program that provides grants for students to study, research, or teach abroad.",
+      "link": "https://foreign.fulbrightonline.org/",
+      "address": "Fulbright Commission, Washington D.C., United States",
+      "phone": "+1 202-686-4000",
+      "email": "fulbright@state.gov",
+      "country": "Canada",
+      "degree": "PhD"
+    },
+    {
+      "name": "Chevening Scholarship",
+      "description": "The Chevening Scholarship is the UK government's global scholarship program to study in the United Kingdom, aimed at developing global leaders.",
+      "link": "https://www.chevening.org/",
+      "address": "Chevening Secretariat, Foreign, Commonwealth & Development Office, London, United Kingdom",
+      "phone": "+44 20 7008 8000",
+      "email": "chevening@chevening.org",
+      "country": "Canada",
+      "degree": "PhD"
+    },
+    {
+      "name": "DAAD Scholarship",
+      "description": "The DAAD Scholarship offers highly qualified international students the opportunity to study in Germany in various academic fields.",
+      "link": "https://www.daad.de/en/",
+      "address": "German Academic Exchange Service, Kennedyallee 50, 53175 Bonn, Germany",
+      "phone": "+49 228 882-0",
+      "email": "info@daad.de",
+      "country": "USA",
+      "degree": "PhD"
+    },
+    {
+      "name": "Gates Cambridge Scholarship",
+      "description": "The Gates Cambridge Scholarship provides full-cost scholarships to students from outside the United Kingdom to pursue postgraduate study at the University of Cambridge.",
+      "link": "https://www.gatescambridge.org/",
+      "address": "The Gates Cambridge Trust, University of Cambridge, Cambridge CB2 1TN, United Kingdom",
+      "phone": "+44 1223 333 308",
+      "email": "gatescambridge@admin.cam.ac.uk",
+      "country": "USA",
+      "degree": "Under-Graduate"
+    }
+  ]
+  
