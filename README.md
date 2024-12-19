@@ -1,16 +1,11 @@
-# probas
-
-A new Flutter project.
+# Probash Care
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Welcome to Probash Care, an innovative app designed to support Bangladeshi expatriates in navigating their lives abroad. In today’s globalized world, expatriates face unique challenges, whether pursuing higher education or seeking employment opportunities. Probash Care empowers users by providing essential resources tailored to their needs.
 
-A few resources to get you started if this is your first Flutter project:
+- Probash Care provides verified resources and tailored support for students and job seekers.
+- It aids students with visa guidance and laborers with ethical jobs and legal aid.
+- The app fosters community, offers emergency help, and updates on migration policies.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
