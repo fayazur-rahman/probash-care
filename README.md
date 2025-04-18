@@ -14,6 +14,42 @@ Probash Care helps users navigate the challenges of migration by offering:
 
 ---
 
+## 🧰 Technology Used
+
+- **Flutter** – For cross-platform mobile app development  
+- **Dart** – Programming language used by Flutter  
+- **Firebase Authentication** – For secure user login and registration  
+- **Cloud Firestore** – For storing and retrieving user and app data  
+- **URL Launcher** – To open external agency websites and video links  
+- **Provider** – For state management across screens  
+
+---
+
+## 📦 How to Install & Run
+
+To set up and run the Probash Care app locally, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/probash-care.git
+   cd probash-care
+
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+
+4. **Connect to Firebase**
+   - Create a Firebase project at https://console.firebase.google.com
+   - Add your google-services.json (Android) or GoogleService-Info.plist (iOS) to the respective folders
+   - Enable Email/Password authentication in Firebase Authentication
+   - Create the necessary Firestore collections (e.g., users, agencies, courses)
+     
+6. **Run the app**
+   ```bash
+   flutter run
+
+**Note**: Make sure you have Flutter and Dart installed, and your Android/iOS emulator or real device is properly set up.
+
 ## 🔐 User Authentication
 
 ### 🔸 Login & Registration
