@@ -54,7 +54,7 @@ Once verified, users can log in and land on the dashboard. From here, they can e
 
 ### 🔸 Search Functionality
 
-<img src="Screenshots/10.jpg" alt="Student Search" width="500"/>
+<img src="Screenshots/10.jpg" alt="Student Search" width="250"/>
 
 Students select their desired country and degree type to access customized support.
 
@@ -82,7 +82,7 @@ Available resources include:
 
 ### 🔸 Job Search and Resources
 
-<img src="Screenshots/16.jpg" alt="Laborer Search" width="500"/>
+<img src="Screenshots/16.jpg" alt="Laborer Search" width="250"/>
 
 Laborers select their target country and job type to view tailored opportunities and support options.
 
@@ -101,7 +101,7 @@ Relevant training courses appear based on job type. For instance, selecting a co
 
 ## 📋 Side Navigation Menu
 
-<img src="Screenshots/19.jpg" alt="Sidebar Navigation" width="400"/>
+<img src="Screenshots/19.jpg" alt="Sidebar Navigation" width="250"/>
 
 The app’s sidebar allows access to:
 - Home  
@@ -115,7 +115,7 @@ The app’s sidebar allows access to:
 
 ## 👤 Profile Management
 
-<img src="Screenshots/20.jpg" alt="Profile Page" width="400"/>
+<img src="Screenshots/20.jpg" alt="Profile Page" width="250"/>
 
 Users can view and update their profile information directly within the app.
 
@@ -123,7 +123,7 @@ Users can view and update their profile information directly within the app.
 
 ## 💬 Feedback System
 
-<img src="Screenshots/23.jpg" alt="Feedback Page" width="400"/>
+<img src="Screenshots/23.jpg" alt="Feedback Page" width="250"/>
 
 Users can submit feedback to improve the app and share their experiences.
 
