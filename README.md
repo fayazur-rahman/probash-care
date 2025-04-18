@@ -177,6 +177,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 For support or collaboration:  
 **Email:** fayazur7@gmail.com  
-**Developed By:** MD Fayazur Rahman
+**Developed By:** [MD Fayazur Rahman](https://www.linkedin.com/in/md-fayazur-rahman/)
 
 ---
