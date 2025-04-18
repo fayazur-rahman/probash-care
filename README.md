@@ -1,4 +1,4 @@
-# 🇧🇩 Probash Care - Your one-step solution for expatriate welfare
+# Probash Care - Your one-step solution for expatriate welfare
 
 
 **Probash Care** is an innovative mobile application built using Flutter to support **Bangladeshi expatriates**—whether they are students pursuing higher education or workers seeking ethical employment abroad. It provides verified, relevant, and practical resources that make life easier while living overseas.
