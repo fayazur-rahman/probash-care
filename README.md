@@ -19,27 +19,27 @@ Probash Care helps users navigate the challenges of migration by offering:
 
 ### 🔸 Login Page
 Users begin by logging into the app using their credentials.  
-![Login Page](screenshots/1.png)
+![Login Page](Screenshots/1.png)
 
 ### 🔸 Registration Page
 New users can register by filling out necessary information.  
-![Registration Page](screenshots/2.jpg)
+![Registration Page](Screenshots/2.jpg)
 
 ### 🔸 Email Verification Process
 After submitting the form, a verification email is sent.  
-![Verification Message](screenshots/3.jpg)  
+![Verification Message](Screenshots/3.jpg)  
 Click the verification link to confirm the email address.  
-![Verification Email](screenshots/4.jpg)  
+![Verification Email](Screenshots/4.jpg)  
 Successful verification confirmation:  
-![Verified Message](screenshots/5.jpg)
+![Verified Message](Screenshots/5.jpg)
 
 **Note:** Login is not permitted until email verification is complete.
 
 ### 🔸 Access Dashboard
 Once verified, users can log in.  
-![Dashboard](screenshots/6.jpg)  
+![Dashboard](Screenshots/6.jpg)  
 Here’s the main dashboard after login:  
-![Dashboard Page](screenshots/7.jpg)
+![Dashboard Page](Screenshots/7.jpg)
 
 Users can select their category: **Student** or **Laborer**, or explore hot topics such as job or internship updates.
 
@@ -49,7 +49,7 @@ Users can select their category: **Student** or **Laborer**, or explore hot topi
 
 ### 🔸 Search by Country and Degree
 Students can select a country and degree to get relevant support.  
-![Student Search](screenshots/10.jpg)
+![Student Search](Screenshots/10.jpg)
 
 ### 🔸 Key Resources Available
 - Agency Information
@@ -59,11 +59,11 @@ Students can select a country and degree to get relevant support.
 
 ### 🔸 Agency Information View
 Filtered agency list:  
-![Agency List](screenshots/11.jpg)  
+![Agency List](Screenshots/11.jpg)  
 Detailed view of an agency:  
-![Agency Details](screenshots/12.jpg)  
+![Agency Details](Screenshots/12.jpg)  
 Clicking links will redirect to the agency’s official site:  
-![External Link](screenshots/13.jpg)
+![External Link](Screenshots/13.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ Clicking links will redirect to the agency’s official site:
 
 ### 🔸 Search by Country and Job Type
 Laborers can explore job opportunities tailored to their preferences.  
-![Laborer Search](screenshots/16.jpg)
+![Laborer Search](Screenshots/16.jpg)
 
 ### 🔸 Key Resources Available
 - Job Agency Information  
@@ -82,9 +82,9 @@ Laborers can explore job opportunities tailored to their preferences.
 
 ### 🔸 View Relevant Courses
 Based on selected job type, courses are shown:  
-![Course List](screenshots/17.jpg)  
+![Course List](Screenshots/17.jpg)  
 Example course: "12 Steps of Construction" from YouTube  
-![Course Detail](screenshots/18.jpg)
+![Course Detail](Screenshots/18.jpg)
 
 Clicking on a course will open it in the browser.
 
@@ -99,21 +99,21 @@ The sidebar includes:
 - Profile
 - Provide Feedback
 - Logout  
-![Side Menu](screenshots/19.jpg)
+![Side Menu](Screenshots/19.jpg)
 
 ---
 
 ## 👤 User Profile
 
 Users can view and edit their personal details here.  
-![Profile Page](screenshots/20.jpg)
+![Profile Page](Screenshots/20.jpg)
 
 ---
 
 ## 💬 Feedback Section
 
 Users can share their experience and suggestions.  
-![Feedback Page](screenshots/23.jpg)
+![Feedback Page](Screenshots/23.jpg)
 
 ---
 
