@@ -50,6 +50,8 @@ To set up and run the Probash Care app locally, follow these steps:
 
 > **Note**: Make sure you have Flutter and Dart installed, and your Android/iOS emulator or real device is properly set up.
 
+---
+
 ## 🔐 User Authentication
 
 ### 🔸 Login & Registration
