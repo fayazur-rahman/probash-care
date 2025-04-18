@@ -167,14 +167,6 @@ Users can submit feedback to improve the app and share their experiences.
 
 ---
 
-## 📱 Built With
-
-- **Flutter** – Frontend Framework  
-- **Firebase** – Authentication and Database  
-- **Dart** – Programming Language  
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss the changes you'd like to propose.
