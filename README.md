@@ -146,7 +146,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📧 Contact
 
 For support or collaboration:  
-**Email:** probashcare.team@example.com  
-**Developed By:** Probash Care Team  
+**Email:** fayazur7@gmail.com  
+**Developed By:** MD Fayazur Rahman
 
 ---
